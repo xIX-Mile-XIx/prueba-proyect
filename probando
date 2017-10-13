@@ -1,0 +1,5 @@
+git init
+git add C:\Users\MILENA CALISAYA\Desktop
+git commit -m "probando"
+git remote add origin  https://github.com/xIX-Mile-XIx/prueba-proyect.git
+git  push
